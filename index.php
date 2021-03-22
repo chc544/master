@@ -6,6 +6,10 @@
 <html>
 <head>
     <title>Basic Web Page</title>
+    <ul>
+        <li>123</li>
+        <li>1234</li>
+    </ul>
 </head>
 <body>
 Hello World!
