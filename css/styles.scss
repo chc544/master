@@ -41,7 +41,7 @@ header{
   .text{
     color: $red;
     border: {
-      color: ;
+      color: #00F;
       style: solid;
       width: 2px;
     }
@@ -51,7 +51,7 @@ header{
         font-size: 14px;
 
         &:nth-of-type(3){
-          background-color: $Color2;
+          background-color: #00F;
         }
       }
     }
