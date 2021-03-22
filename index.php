@@ -5,16 +5,11 @@
 
 <html>
 <head>
-    <title>Basic Web Page</title>
-    <ul>
-        <li>123</li>
-        <li>1234</li>
-    </ul>
+    <title>Lions Nyk F.</title>
 </head>
-<body>
-Hello World!
 
-<?php include "includes/footer.php";?>
+<body>
+<img src="images/hero.jpeg" class="img-fluid" alt="...">
 
 </body>
 </html>

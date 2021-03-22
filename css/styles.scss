@@ -1,7 +1,16 @@
-@import "colors";
 
-$red: #F00;
-$blue: #00F;
+$headline: "'Poppins', sans-serif;";
+$tekst: "'Poppins', sans-serif;";
+
+/*farver*/
+$primary: #00338D;
+$darkblue: #002057;
+$textblue: #0D2240;
+$yellow: #EBB700;
+$white: #fff;
+
+
+/*margener, padding lign.*/
 $padding: 10px;
 $side: left;
 
@@ -11,13 +20,15 @@ $side: left;
 }
 
 body {
-  background-color: $red;
 }
+
+
 
 .test {
   background-color: $blue;
   margin-#{$side}: $padding;
   @include blurText;
+  font-family: $headline;
 }
 
 .test2 {
@@ -30,7 +41,7 @@ header{
   .text{
     color: $red;
     border: {
-      color: $Color1;
+      color: ;
       style: solid;
       width: 2px;
     }
