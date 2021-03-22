@@ -13,5 +13,8 @@
 </head>
 <body>
 Hello World!
+
+<?php include "includes/footer.php";?>
+
 </body>
 </html>
