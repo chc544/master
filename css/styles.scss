@@ -1,0 +1,48 @@
+@import "colors";
+
+$red: #F00;
+$blue: #00F;
+$padding: 10px;
+$side: left;
+
+@mixin blurText(){
+  color: transparent;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+body {
+  background-color: $red;
+}
+
+.test {
+  background-color: $blue;
+  margin-#{$side}: $padding;
+  @include blurText;
+}
+
+.test2 {
+  @extend .test;
+}
+
+header{
+  background-color: $blue;
+
+  .text{
+    color: $red;
+    border: {
+      color: $Color1;
+      style: solid;
+      width: 2px;
+    }
+
+    ul{
+      li{
+        font-size: 14px;
+
+        &:nth-of-type(3){
+          background-color: $Color2;
+        }
+      }
+    }
+  }
+}
