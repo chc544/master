@@ -8,6 +8,8 @@
     <title>Lions Nyk F.</title>
 </head>
 
+<?php include "includes/menu.php";?>
+
 <body>
     <div class="heroimage">
         <img src="images/hero.jpeg" class="img-fluid" alt="...">
@@ -29,6 +31,8 @@
     </div>
 
     <div class=""></div>
+
+<?php include "includes/footer.php";?>
 
 </body>
 </html>
