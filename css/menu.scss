@@ -1,5 +1,38 @@
-.hans{
+.row {
 
-  background-color: blue;
+  height: 40px;
+
+}
+.btn a{
+
+  align-content: center;
+
+}
+
+.btn {
+
+  height: 25px;
+  align-self: center;
+  padding: 2px 5px;
+  margin-right: 10px;
+  text-align: center;
+  max-width: 100px;
+
+}
+
+.social{
+
+  align-self: center;
+
+}
+a.nav-link {
+
+  color: black;
+
+}
+
+.navbar-toggler-icon{
+
+  color: black !important;
 
 }
