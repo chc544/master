@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
 <link rel="stylesheet" href="css/styles.css" type="text/css">
 
-<?php include "includes/menu.php"?>
+<?php include "includes/menu.php";?>
 
 <section class="om-os">
     <div class="om-os__lokalt">

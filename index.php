@@ -21,14 +21,12 @@
         <div class="text-white">
             <h4 class="mb-3">Vær med til at gøre en forskel</h4>
             <h1 class="mb-3">Lions Nykøbing Falster</h1>
+            <br><br><br>
             <a class="btn btn-yellow " href="#!" role="button">Start her</a>
         </div>
     </div>
 </div>
 <!-- Background image -->
-
-<br><br>
-
     <div class="container" id="pwidth">
         <h1>Formål</h1>
         <p>Lions organisationen blev oprettet i USA i 1917 på en tid, hvor mange syntes, at verden behøvede mere medieven og mindre selvoptagethed.
