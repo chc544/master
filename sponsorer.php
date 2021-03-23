@@ -2,6 +2,8 @@
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
 <link rel="stylesheet" href="css/styles.css" type="text/css">
 
+<?php include "includes/menu.php"?>
+
 <section class="sponsorer">
     <div class="container">
         <h1>Sponsorer</h1>
@@ -18,6 +20,13 @@
         Når din virksomhed støtter Lions, kan det trækkes fra i skat. Virksomheder kan ubegrænset donere – dog må beløbet højest udgøre 15% af virksomhedens indtjening.
         <br><br>
         Læs mere på <a href="https://skat.dk/">skat.dk</a></p>
+    </div>
+
+    <div class="container">
+        <div class="sponsorer__images">
+            <img src="img/kvickly.svg" alt="kvickly">
+            <img src="img/sæbefabrikken.png" alt="sæbefabrikken">
+        </div>
     </div>
 </section>
 

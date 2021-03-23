@@ -1,15 +1,10 @@
-.row {
-
-  height: 40px;
-
-}
 .btn a{
 
   align-content: center;
 
 }
 
-.btn {
+#knap1 {
 
   height: 25px;
   align-self: center;
@@ -17,13 +12,32 @@
   margin-right: 10px;
   text-align: center;
   max-width: 100px;
+  border:none;
+}
 
+.menu__wrapper{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .social{
+  padding-top:5px;
+}
 
-  align-self: center;
+.social img{
+  margin-right:10px;
+}
 
+.social__btns{
+  padding-top:5px;
+}
+
+#navbarSupportedContent{
+  justify-content: flex-end !important;
+}
+.navbar-collapse{
+  flex-grow: unset;
 }
 a.nav-link {
 
