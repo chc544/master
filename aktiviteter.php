@@ -1,8 +1,9 @@
 <link rel="stylesheet" href="css/aktiviteter.scss" type="text/css">
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
-<link rel="stylesheet" href="css/styles.css" type="text/css">
 
-<?php include "includes/menu.php"?>
+<?php include "includes/menu.php";?>
+
+<body>
 
 <section class="aktiviteter">
     <div class="container">
@@ -68,3 +69,5 @@
 </section>
 
 <?php include "includes/footer.php"?>
+
+</body>
