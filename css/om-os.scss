@@ -1,0 +1,58 @@
+.om-os .container{
+  margin-bottom:20px;
+}
+
+.om-os p{
+  margin-bottom:50px;
+}
+
+.om-os__lokalt{
+  padding:20px;
+}
+
+.om-os__nationalt{
+  padding:20px;
+}
+
+.om-os__internationalt{
+  padding:20px;
+}
+
+.om-os__historie{
+  padding:20px;
+}
+
+@media screen and (min-width:992px){
+  .om-os__lokalt .container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:50px;
+  }
+
+  .om-os__nationalt .container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin-bottom:50px;
+  }
+
+  .om-os__internationalt .container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:50px;
+  }
+  .om-os__wrapper__right{
+    padding-left:50px;
+  }
+
+  .om-os__wrapper__left{
+    padding-right:50px;
+  }
+
+  .om-os img{
+    width:40%;
+  }
+}
