@@ -21,6 +21,13 @@
         <br><br>
         Læs mere på <a href="https://skat.dk/">skat.dk</a></p>
     </div>
+
+    <div class="container">
+        <div class="sponsorer__images">
+            <img src="img/kvickly.svg" alt="kvickly">
+            <img src="img/sæbefabrikken.png" alt="sæbefabrikken">
+        </div>
+    </div>
 </section>
 
 <?php include "includes/footer.php"?>
