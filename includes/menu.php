@@ -24,7 +24,7 @@
 <div class="container">
 <nav class="navbar navbar-right navbar-expand-lg navbar-light">
     <div class="container-fluid p-0">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
             <img src="img/LCI_emblem_2color_web.png" alt="" width="50" height="50" class="d-inline-block align-top">
         </a>
         <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
