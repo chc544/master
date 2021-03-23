@@ -3,24 +3,22 @@
 
 </head>
 
-<div class="container-fluid p-0 bg-primary">
-    <div class="row">
-        <div class="col-6 d-flex justify-content-center p-0">
-            <div class="social">
-                <a href="">
-                    <img src="img/facebook.svg" alt="Lions Nyk F Facebook side" height="25" width="25">
-                </a>
-                <a href="">
-                    <img src="img/linkedin.svg" alt="Lions Nyk F Linkedin side" height="25" width="25">
-                </a>
-            </div>
+<div class="container-fluid p-0 bg-primary" style="height:40px">
+    <div class="container">
+        <div class="menu__wrapper">
+                <div class="social">
+                    <a href="https://www.facebook.com/Lions-Nyk%C3%B8bing-F-722739517762373/">
+                        <img src="img/facebook.svg" alt="Lions Nyk F Facebook side" height="25" width="25">
+                    </a>
+                    <a href="https://www.linkedin.com/">
+                        <img src="img/linkedin.svg" alt="Lions Nyk F Linkedin side" height="25" width="25">
+                    </a>
+                </div>
+                <div class="social__btns">
+                <a href="#" class="btn btn-sm btn-info bg-yellow" id="knap1" role="button">Donation</a>
+                <a href="#" class="btn btn-sm btn-info bg-yellow" id="knap1" role="button">Bliv medlem</a>
+                </div>
         </div>
-
-        <div class="col-6 d-flex justify-content-center p-0">
-            <a href="#" class="btn btn-sm btn-info bg-yellow border border-dark border-2" id="knap1" role="button">Donation</a>
-            <a href="#" class="btn btn-sm btn-info bg-yellow border border-dark border-2" id="knap1" role="button">Blev medlem</a>
-        </div>
-
     </div>
 </div>
 <div class="container">
@@ -35,16 +33,16 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Om os</a>
+                    <a class="nav-link" href="om-os.php">Om os</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Aktiviteter</a>
+                    <a class="nav-link" href="aktiviteter.php">Aktiviteter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Sponsorer</a>
+                    <a class="nav-link" href="sponsorer.php">Sponsorer</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Kontakt</a>
+                    <a class="nav-link" href="kontakt.php">Kontakt</a>
                 </li>
             </ul>
         </div>
