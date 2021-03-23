@@ -25,7 +25,7 @@ body {
 
 
 .test {
-  background-color: $blue;
+  background-color: #00F;
   margin-#{$side}: $padding;
   @include blurText;
   font-family: $headline;
@@ -36,10 +36,10 @@ body {
 }
 
 header{
-  background-color: $blue;
+  background-color: #00F;
 
   .text{
-    color: $red;
+    color: #00F;
     border: {
       color: #00F;
       style: solid;

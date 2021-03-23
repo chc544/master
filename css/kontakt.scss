@@ -1,0 +1,86 @@
+.kontakt{
+  margin-bottom:50px;
+  padding:20px 20px 0 20px;
+}
+
+.kontakt h1{
+  margin-bottom:50px;
+}
+
+.kontakt a:hover{
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+}
+
+.bestyrelse{
+  margin-bottom:50px;
+  padding:20px 20px 0 20px;
+}
+
+.bestyrelse h3{
+  margin-bottom:20px;
+}
+
+.medlemmer{
+  margin-bottom:100px;
+  padding:20px 20px 0 20px;
+}
+
+.medlemmer .card{
+  text-align: center;
+}
+
+
+.medlemmer h3{
+  margin-bottom:20px;
+}
+
+.kontakt__email{
+  display:flex;
+}
+
+.kontakt__email img{
+  width:20px;
+  margin-right:10px;
+}
+
+.kontakt p{
+  margin:0;
+}
+
+.bestyrelse .card{
+  text-align: center;
+}
+
+.card img{
+  width:150px;
+  height:150px;
+  border-radius:20px;
+  object-fit: cover;
+  margin-bottom:10px;
+}
+
+.kontakt__social .container{
+  display:flex;
+  margin-top:40px;
+}
+.kontakt__social img{
+  width:30px;
+  margin:0 10px;
+}
+
+@media screen and (min-width:992px){
+  .bestyrelse__cards .container{
+    display:flex;
+  }
+
+  .card{
+    padding:50px;
+  }
+}
+
+@media screen and (min-width:1200px){
+  .card{
+    padding:70px;
+  }
+}
