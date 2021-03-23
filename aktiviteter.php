@@ -2,6 +2,8 @@
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
 <link rel="stylesheet" href="css/styles.css" type="text/css">
 
+<?php include "includes/menu.php"?>
+
 <section class="aktiviteter">
     <div class="container">
         <h1>Aktiviteter</h1>

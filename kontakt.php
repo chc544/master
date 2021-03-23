@@ -2,13 +2,14 @@
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
 <link rel="stylesheet" href="css/styles.css" type="text/css">
 
+<?php include "includes/menu.php"?>
+
 <section class="kontakt">
     <div class="kontakt__info">
         <div class="container">
             <h1>Kontakt</h1>
             <h3>Mødested:</h3>
-            <p>Borgerstiftelsen<br>
-            Tværgade<br>
+            <p>Viborgvej 13<br>
             4800 Nykøbing F. <br>
             <br>
             Klubben mødes: 1. mandag kl 18:00</p>
