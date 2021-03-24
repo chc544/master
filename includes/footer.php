@@ -8,14 +8,14 @@
             <a href="#"><img src="img/LCI_emblem_2color_web.png" alt="logo"></a>
         </div>
             <div class="footer__social">
-                <a href="https://www.facebook.com/Lions-Nyk%C3%B8bing-F-722739517762373/"><img src="img/facebook.svg" alt="facebooklogo"></a>
-                <a href="https://www.linkedin.com/"><img src="img/linkedin.svg" alt="linkedinlogo"></a>
+                <a href="https://www.facebook.com/Lions-Nyk%C3%B8bing-F-722739517762373/" target="_blank" rel="noopener noreferrer"><img src="img/facebook.svg" alt="facebooklogo"></a>
+                <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"><img src="img/linkedin.svg" alt="linkedinlogo"></a>
             </div>
             <ul class="footer__list">
-                <li class="footer__list__item"><a href="#">OM OS</a></li>
-                <li class="footer__list__item"><a href="#">AKTIVITETER</a></li>
-                <li class="footer__list__item"><a href="#">SPONSORER</a></li>
-                <li class="footer__list__item"><a href="#">KONTAKT</a></li>
+                <li class="footer__list__item"><a href="om-os.php">OM OS</a></li>
+                <li class="footer__list__item"><a href="aktiviteter.php">AKTIVITETER</a></li>
+                <li class="footer__list__item"><a href="sponsorer.php">SPONSORER</a></li>
+                <li class="footer__list__item"><a href="kontakt.php">KONTAKT</a></li>
             </ul>
             <div class="footer__line"></div>
             <p class="footer__copyright">© 2016 Lions Danmark</p>
