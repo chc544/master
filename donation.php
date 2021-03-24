@@ -27,12 +27,14 @@
             <h4 class="mb-3">SEND EN DONATION</h4>
             <h1 class="mb-3" id="h1unique">Gør en forskel for de sårbare</h1>
             <br><br>
+            <div class="donation__wrapper">
             <select list="betaling" id="list" class="form-control" aria-describedby="passwordHelpBlock">
                 <option value="engangsbetaling">Engangsbeløb</option>
                 <option value="månedsbetaling">Betal månedligt</option>
                 <option value="årsbetaling">Betal årligt</option>
             <input type="number" id="input" class="form-control" aria-describedby="passwordHelpBlock" placeholder="kr.">
             <a class="btn btn-yellow " href="#!" role="button">Send donation</a>
+            </div>
         </div>
         </div>
     </div>

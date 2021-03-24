@@ -25,8 +25,8 @@
                     hvor man har mulighed for at smage deres forskellige, lækre supper - En portion suppe koster 30 kr, heraf går 20 kr ubeskåret til koncerten.
                     Overskuddet fra arrangementet går til at afholde en koncert på torvet i uge 27 i samarbejde med frivillige lokale musikere.
                     Lions afholder samtidig lotteri og overskuddet fra lotteriet går til et navngivet lokalt formål.<br><br>
-                    Ønsker du at deltage med en stand - klik <a href="">her</a> og kom videre til vores kontaktoplysninger.
-                    Ønsker du at sponsorere vores lotteri - klik <a href="">her</a>.
+                    Ønsker du at deltage med en stand - klik <a href="kontakt.php">her</a> og kom videre til vores kontaktoplysninger.
+                    Ønsker du at sponsorere vores lotteri - klik <a href="sponsorer.php">her</a>.
                 </p>
             </div>
 
@@ -64,7 +64,7 @@
                 </div>
                 <p>Vi er i øjeblikket synlige på flere ungdoms- og videregående uddannelser, med vores kampagne “FRIVILLIG, HVEM, MIG?”
                     Kampagnen henvender sig til de helt unge. Vi ønsker at oplyse om vigtigheden af lokale ildsjæle og hvad det giver DIG igen at være frivillig.
-                    Du kan se vores plakater hænge rundt omkring og der hvor de hænger er det også muligt at få udleveret flyers, hvor du kan læse mere
+                    Du kan se vores plakater hænge rundt omkring og der hvor de hænger er det også muligt at få udleveret flyers, hvor du kan læse mere. <br><br>
                     Hent vores plakat og flyer <a href="https://www.dropbox.com/sh/qi3hfxea3c2p6x4/AABfZwRGWjNhaenjYNBZQjTMa?dl=0">her</a>.
                 </p>
             </div>

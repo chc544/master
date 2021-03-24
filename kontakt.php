@@ -15,7 +15,7 @@
             <p>Viborgvej 13<br>
             4800 Nykøbing F. <br>
             <br>
-            Klubben mødes:<br> 1. mandag kl 18:00</p>
+            Klubben mødes:<br> 1. mandag i hver måned kl. 18.00</p>
 
             <div class="kontakt__email">
                 <img src="img/envelope-regular.svg" alt="envelope">

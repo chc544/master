@@ -31,7 +31,7 @@
 
                     <div class="text d-flex py-4">
                         <img class="me-3" src="img/book.svg" alt="fællesskab">
-                        <p>Bliv bedre til det du allerede kan, få ny viden, erfaring og kompetencer.</p>
+                        <p>Bliv bedre til det du allerede kan, få ny viden, erfaring og kompetencer der styrker dig som menneske og er rigtig godt på dit CV.</p>
                     </div>
                     <br><br>
 

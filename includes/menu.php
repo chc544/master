@@ -33,7 +33,7 @@
             </a>
             <ul class="navbar-nav me-auto">
             <li id="navbarText">
-                <a class="navText" href="index.php">Lions Nykøbing</a>
+                <a class="navText" href="index.php">Lions Nykøbing F.</a>
             </li>
             </ul>
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
