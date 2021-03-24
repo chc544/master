@@ -57,9 +57,8 @@
 }
 
 .card img{
-  width:150px;
-  height:200px;
-  border-radius:20px;
+  width:170px;
+  height:270px;
   object-fit: cover;
   margin-bottom:10px;
 }
@@ -73,8 +72,12 @@
   display:flex;
   margin-top:40px;
 }
+
+.kontakt__social h4{
+  margin-right:10px;
+}
 .kontakt__social img{
-  width:30px;
+  width:40px;
   margin:0 10px;
 }
 

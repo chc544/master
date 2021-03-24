@@ -5,7 +5,7 @@
 <section class="footer">
     <div class="container">
         <div class="footer__logo">
-            <a href="#"><img src="img/LCI_emblem_2color_web.png" alt="logo"></a>
+            <a href="index.php"><img src="img/LCI_emblem_2color_web.png" alt="logo"></a>
         </div>
             <div class="footer__social">
                 <a href="https://www.facebook.com/Lions-Nyk%C3%B8bing-F-722739517762373/" target="_blank" rel="noopener noreferrer"><img src="img/icons8-facebook.svg" alt="facebooklogo"></a>
