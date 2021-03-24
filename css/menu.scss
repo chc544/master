@@ -1,24 +1,38 @@
-.btn a{
-
-  align-content: center;
-
+@font-face {
+  font-family: 'HelveticaBoldCondensed';
+  src: url('../fonts/HelveticaNeueLTPro-BdCn.woff2') format('woff2'),
+  url('../fonts/HelveticaNeueLTPro-BdCn.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 #knap1 {
-
   height: 25px;
   align-self: center;
   padding: 2px 5px;
-  margin-right: 10px;
+  margin-left: 10px;
   text-align: center;
   max-width: 100px;
   border:none;
+}
+
+.default__line {
+  margin: 0px;
+  height: 2px;
+  background-color: #4f4f4f;
+  opacity: 10%;
+  width: 100%;
 }
 
 .menu__wrapper{
   display:flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.menu__wrapper a img:hover {
+  opacity: 50%;
 }
 
 .social{
@@ -45,8 +59,24 @@ a.nav-link {
 
 }
 
-.navbar-toggler-icon{
+
+.navbar-toggler-icon {
 
   color: black !important;
 
+}
+
+#navbarText {
+  font-family: "HelveticaBoldCondensed";
+  font-size: 20px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a.navText {
+  color: #55565A;
+  text-decoration: none;
 }

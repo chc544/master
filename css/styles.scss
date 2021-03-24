@@ -1,6 +1,15 @@
-
-$headline: "'Poppins', sans-serif;";
-$tekst: "'Poppins', sans-serif;";
+@font-face {
+  font-family: 'HelveticaRoman';
+  src: url('../fonts/HelveticaNeueLTPro-Roman.woff2') format('woff2'),
+  url('../fonts/HelveticaNeueLTPro-Roman.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+body {
+  font-family: HelveticaRoman;
+  margin: 0; /* Ingen kanter i siden af browser */
+}
 
 /*farver*/
 
@@ -15,19 +24,13 @@ $white: #fff;
 
 /*margener, padding*/
 
-$padding: 20px;
+$padding: 40px;
 
 /*margener, padding*/
 
-@mixin blurText(){
-  color: transparent;
-  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
-}
-
-
 .bg-image {
   background-image: linear-gradient(to bottom, rgba(59, 130, 255, 0.5) 40%, rgba(0, 51, 141, 0.5) 100%), url('../images/hero.jpeg');
-  height: 600px;
+  height: 400px;
   no-repeat: center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -35,8 +38,12 @@ $padding: 20px;
   background-size: cover;
 }
 
+.btn {
+  font-weight: bold;
+}
+
 #midimage {
-  background-image: linear-gradient(to bottom, rgba(59, 130, 255, 0.5) 40%, rgba(0, 51, 141, 0.5) 100%), url('../images/midimage.jpeg');
+  background-image: linear-gradient(to bottom, rgba(59, 130, 255, 0.5) 40%, rgba(0, 51, 141, 0.6) 100%), url('../images/midimage.jpg');
   height: 200px;
   no-repeat: center center fixed;
   -webkit-background-size: cover;
@@ -54,27 +61,55 @@ $padding: 20px;
 
 .cardwrapper {
   display: flex;
-  padding-top: $padding;
+}
+
+.space {
+  padding-right: 20px;
+}
+
+.space2 {
+  padding-left: 20px;
 }
 
 h1 {
-  padding-top: $padding;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 34px;
+  margin: 0px;
+  font-weight: bold;
 }
 
-#buttons {
-  position: absolute;
-  bottom: 20px;
-  left: 20px;
+h3 {
+  font-weight: bold;
 }
 
-body {
-  margin: 0; /* Ingen kanter i siden af browser */
+h4 {
+  font-size: 22px;
+  font-weight: bold;
 }
+
 
 .card-text {
-  margin-bottom: 55px;
+  margin-bottom: 25px;
+}
+
+.card-footer {
+  padding: 0rem 0rem;
+  background-color: rgba(0,0,0,0);
+  border-top: 0px solid rgba(0,0,0,0);
 }
 
 #pwidth p {
-  width: 70%;
+  width: 100%;
+}
+
+
+
+@media screen and (min-width:1150px){
+  #pwidth p {
+    width: 70%;
+  }
+  .bg-image {
+    height: 600px;
+  }
 }

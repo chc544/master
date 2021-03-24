@@ -1,6 +1,9 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="css/sponsorer.scss" type="text/css">
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
 <link rel="stylesheet" href="css/styles.css" type="text/css">
+<title>Lions Nyk F. - Sponsorer</title>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 
 <?php include "includes/menu.php"?>
 
@@ -26,6 +29,8 @@
         <div class="sponsorer__images">
             <img src="img/kvickly.svg" alt="kvickly">
             <img src="img/sæbefabrikken.png" alt="sæbefabrikken">
+            <img src="img/Bogidlogo.png" alt="bogogide">
+            <img src="img/legekaeden-logo.png" alt="legekæden">
         </div>
     </div>
 </section>
