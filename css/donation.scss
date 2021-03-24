@@ -5,7 +5,9 @@
 #h1unique {
   padding: 0px;
 }
-
+.text-white{
+  text-align: center;
+}
 .text-white h4{
   padding:0;
 }
@@ -36,5 +38,9 @@
   .donation__wrapper{
     flex-direction:row;
     justify-content: flex-start;
+  }
+
+  .text-white{
+    text-align: unset;
   }
 }
