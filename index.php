@@ -31,15 +31,17 @@
 <div class="formål__wrapper">
     <div class="container" id="pwidth">
         <h1>Formål</h1>
-        <p>Vi ønsker at gøre en forskel for mennesker, dyr og miljøet i hele verden. <br><br>
-            I Nykøbing F. har vi valgt at vores donationer skal fordeles således: <br><br>
-            50% går til lokale formål <br><br>
-            25% går til nationale formål <br><br>
-            25% går til internationale formål <br><br>
+        <p>Vi ønsker at gøre en forskel for mennesker, dyr og miljøet i hele verden. <br>
+            I Nykøbing F. har vi valgt at vores donationer skal fordeles således: <br>
+        <ul>
+            <li>50% går til lokale formål.</li>
+            <li>25% går til nationale formål.</li>
+            <li>25% går til internationale formål.</li>
+        </ul>
             Derfor bliver 75% af vores donationer i Danmark og er med til at gøre en forskel for rigtig mange mennesker – i 2020 donerede vi i Nykøbing 38.000 kr.
-            <br><br>
+            <br>
             Alle donationer går ubeskåret til at hjælpe andre, så intet af DIN donation går til administration.
-            <br><br>
+            <br>
         </p>
     </div>
     <div class="formål__donationer">
