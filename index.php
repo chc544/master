@@ -28,20 +28,28 @@
     </div>
 </div>
 <!-- Background image -->
-<div class="container" id="pwidth">
-    <h1>Formål</h1>
-    <p>Vi ønsker at gøre en forskel for mennesker, dyr og miljøet i hele verden. <br><br>
-        I Nykøbing F. har vi valgt at vores donationer skal fordeles således: <br><br>
-        50% går til lokale formål <br><br>
-        25% går til nationale formål <br><br>
-        25% går til internationale formål <br><br>
-        Derfor bliver 75% af vores donationer i Danmark og er med til at gøre en forskel for rigtig mange mennesker – i 2020 donerede vi i Nykøbing 38.000 kr.
-        <br><br>
-        Alle donationer går ubeskåret til at hjælpe andre, så intet af DIN donation går til administration.
-        <br><br>
-    </p>
+<div class="formål__wrapper">
+    <div class="container" id="pwidth">
+        <h1>Formål</h1>
+        <p>Vi ønsker at gøre en forskel for mennesker, dyr og miljøet i hele verden. <br><br>
+            I Nykøbing F. har vi valgt at vores donationer skal fordeles således: <br><br>
+            50% går til lokale formål <br><br>
+            25% går til nationale formål <br><br>
+            25% går til internationale formål <br><br>
+            Derfor bliver 75% af vores donationer i Danmark og er med til at gøre en forskel for rigtig mange mennesker – i 2020 donerede vi i Nykøbing 38.000 kr.
+            <br><br>
+            Alle donationer går ubeskåret til at hjælpe andre, så intet af DIN donation går til administration.
+            <br><br>
+        </p>
+    </div>
+    <div class="formål__donationer">
+        <div class="container">
+            <img src="img/lokalt50.svg" alt="lokalt">
+            <img src="img/national25.svg" alt="nationalt">
+            <img src="img/international25.svg" alt="internationalt">
+        </div>
+    </div>
 </div>
-
 <!-- Background image -->
 
 <div class="bg-image" id="midimage">
@@ -59,33 +67,48 @@
 <div class="container">
     <h1>Nyheder</h1>
 </div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-md-6">
-            <div class="card">
-                <div class="card-body">
-                    <img src="images/julehjaelp.jpeg" class="card-img-top" alt="...">
-                    <h4 class="card-title">Julehjælp på Falster</h4>
-                    <p class="card-text">I ugen op til jul samlede LIONS Nykøbing fødevarer ind til fremstilling af julekurve til 12 familier i Nykøbing F.
-                        <br>Samarbejdspartner var den lokale Kvickly i Nykøbing F. [...]</p>
-                    <a href="#" class="btn btn-yellow">Læs mere →</a>
+<div class="card__wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="images/julehjaelp.jpeg" class="card-img-top" alt="...">
+                        <h4 class="card-title">Julehjælp på Falster</h4>
+                        <p class="card-text">I ugen op til jul samlede LIONS Nykøbing fødevarer ind til fremstilling af julekurve til 12 familier i Nykøbing F.
+                            <br>Samarbejdspartner var den lokale Kvickly i Nykøbing F. [...]</p>
+                        <a href="#" class="btn btn-yellow">Læs mere →</a>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="col-md-6">
-            <div class="card">
-                <div class="card-body">
-                    <img src="images/katastrofe.jpg" class="card-img-top" alt="...">
-                    <h4 class="card-title">COVID-19 Katastrofehjælp</h4>
-                    <p class="card-text">Lions giver 1 mio. kr. til COVID-19 vaccination og behandling i Afrika. COVID-19 har ramt hele verden. Mens vi på vores breddegrader har midlerne til at indkøbe, fordele og vaccinationerne[...]</p>
-                    <a href="#" class="btn btn-yellow">Læs mere →</a>
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="images/katastrofe.jpg" class="card-img-top" alt="...">
+                        <h4 class="card-title">COVID-19 Katastrofehjælp</h4>
+                        <p class="card-text">Lions giver 1 mio. kr. til COVID-19 vaccination og behandling i Afrika. COVID-19 har ramt hele verden. Mens vi på vores breddegrader har midlerne til at indkøbe, fordele og vaccinationerne[...]</p>
+                        <a href="#" class="btn btn-yellow">Læs mere →</a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<br><br><br>
+<div class="container">
+    <div class="nyhedsbrev">
+        <div class="container">
+            <h3>Nyhedsbrev</h3>
+            <p>Tilmeld dig vores nyhedsbrev for at holde dig opdateret, vi sender nyheder en gang om måneden.</p>
+        </div>
+
+        <div class="container">
+            <div class="nyhedsbrev__email__wrapper">
+                <input id="email" class="email" name="email" type="email" placeholder="Email" value="">
+                <button class="btn btn-yellow">Tilmeld</button>
+            </div>
+        </div>
+    </div>
+</div>
 <?php include "includes/footer.php"; ?>
 
 </body>

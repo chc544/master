@@ -22,13 +22,13 @@
     </div>
 </div>
 
+<div class="default__line"></div>
 <div class="container">
-    <div class="default__line"></div>
     <nav class="navbar navbar-right navbar-expand-lg navbar-light">
 
         <div class="container-fluid p-0">
             <a class="navbar-brand" href="index.php">
-                <img src="img/LCI_emblem_2color_web.png" alt="" width="50" height="50" class="d-inline-block align-top">
+                <img src="img/LCI_emblem_2color_web.png" alt="" class="d-inline-block align-top">
 
             </a>
             <ul class="navbar-nav me-auto">

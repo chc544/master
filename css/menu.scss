@@ -47,6 +47,11 @@
   padding-top:5px;
 }
 
+.navbar-brand img{
+  width:50px;
+  height:50px;
+}
+
 #navbarSupportedContent{
   justify-content: flex-end !important;
 }
@@ -79,4 +84,15 @@ a {
 a.navText {
   color: #55565A;
   text-decoration: none;
+}
+
+@media screen and (min-width:992px){
+  .navbar-brand img{
+    width:70px;
+    height: 70px;
+  }
+
+  #navbarText{
+    font-size:24px;
+  }
 }

@@ -75,8 +75,13 @@ h1 {
   padding-top: 30px;
   padding-bottom: 30px;
   font-size: 34px;
-  margin: 0px;
+  margin: 0;
   font-weight: bold;
+}
+
+.mb-3{
+  padding:10px;
+  margin:0 !important;
 }
 
 h3 {
@@ -84,13 +89,36 @@ h3 {
 }
 
 h4 {
-  font-size: 22px;
+  font-size: 24px;
   font-weight: bold;
 }
 
+.formål__wrapper img{
+  width:150px;
+}
 
+.formål__donationer .container{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  margin-top:40px;
+}
+
+.card__wrapper{
+  margin-bottom:50px;
+}
 .card-text {
   margin-bottom: 25px;
+}
+
+.nyhedsbrev{
+  height:300px;
+  width:100%;
+  background-color:#00338D;
+  color:white;
+  margin-bottom:100px;
 }
 
 .card-footer {
@@ -103,7 +131,12 @@ h4 {
   width: 100%;
 }
 
-
+@media screen and (min-width:768px){
+  .formål__donationer .container{
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
 
 @media screen and (min-width:1150px){
   #pwidth p {
