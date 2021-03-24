@@ -14,8 +14,8 @@
                 </a>
             </div>
             <div class="social__btns">
-                <a href="donation.php" target="_blank" rel="noopener noreferrer" class="btn btn-yellow btn-sm btn-info" id="knap1" role="button">Donation</a>
-                <a href="blivmedlem.php" target="_blank" rel="noopener noreferrer" class="btn btn-yellow btn-sm btn-info" id="knap1" role="button">Bliv medlem</a>
+                <a href="donation.php" rel="noopener noreferrer" class="btn btn-yellow btn-sm btn-info" id="knap1" role="button">Donation</a>
+                <a href="blivmedlem.php" rel="noopener noreferrer" class="btn btn-yellow btn-sm btn-info" id="knap1" role="button">Bliv medlem</a>
 
             </div>
         </div>
