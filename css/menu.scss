@@ -17,6 +17,7 @@
   border:none;
 }
 
+
 .default__line {
   margin: 0px;
   height: 2px;
@@ -39,6 +40,9 @@
   padding-top:5px;
 }
 
+.social__btns{
+  display:flex;
+}
 .social img{
   margin-right:10px;
 }
@@ -70,20 +74,28 @@ a.nav-link {
   color: black !important;
 
 }
-
+.social__circle{
+  background:white;
+  border-radius:50%;
+}
 #navbarText {
   font-family: "HelveticaBoldCondensed";
   font-size: 20px;
-
 }
 
 a {
   text-decoration: none;
 }
-
+.nav-item{
+  padding-left:20px;
+}
 a.navText {
   color: #55565A;
   text-decoration: none;
+}
+
+.social__facebook{
+  background-color:white;
 }
 
 @media screen and (min-width:992px){

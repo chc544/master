@@ -1,14 +1,14 @@
 <head>
-    <link rel="stylesheet" href="css/medlem.scss" type="text/css">
+    <link rel="stylesheet" href="css/medlem.css" type="text/css">
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="css/styles.css" type="text/css">
 </head>
 
 <?php include "includes/menu.php";?>
 
+<div class="container">
 <section class="indmeldning">
-
-    <div class="container__frivillig mx-4">
+    <div class="container__frivillig">
         <div class="container py-2 px-0">
 
         <h1>Frivillig</h1>
@@ -16,7 +16,7 @@
 
         </div>
 
-        <div class="container">
+        <div class="container__frivillig__tekst">
 
 
                     <div class="text d-flex py-4">
@@ -33,15 +33,16 @@
                         <img class="me-3" src="img/book.svg" alt="fællesskab">
                         <p>Bliv bedre til det du allerede kan, få ny viden, erfaring og kompetencer.</p>
                     </div>
+                    <br><br>
 
-                    <div class="d-flex justify-content-center pt-3 pb-5">
+                    <div class="d-flex justify-content-center pt-2 pb-5">
                         <a class="btn btn-yellow" href="#" role="button">Bliv Frivillig</a>
                     </div>
 
         </div>
     </div>
 
-    <div class="container__medlem mx-4">
+    <div class="container__medlem">
         <div class="container py-2 px-0">
 
         <h1>Medlemskab</h1>
@@ -49,7 +50,7 @@
 
         </div>
 
-        <div class="container">
+        <div class="container__medlemskab__tekst">
 
                     <div class="text d-flex py-4">
                         <img class="me-3" src="img/heart.svg" alt="fællesskab" height="30" width="30">
@@ -66,10 +67,11 @@
                     <div class="text d-flex py-4">
                         <img class="me-3" src="img/community.svg" alt="fællesskab">
                         <p>Du bliver en del af et større lokalt fællesskab der er med til at gøre en forskel.</p>
-
                     </div>
-
-                    <div class="d-flex justify-content-center pt-3 pb-5">
+                        <div class="text justify-content-center">
+                            <h5>99kr. / måneden</h5>
+                        </div>
+                    <div class="d-flex justify-content-center pt-2 pb-5">
                         <a class="btn btn-yellow" href="#" role="button">Bliv Medlem</a>
                     </div>
 
@@ -77,6 +79,7 @@
     </div>
 
 </section>
+</div>
 
 <?php include "includes/footer.php";?>
 

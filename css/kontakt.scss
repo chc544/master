@@ -7,6 +7,10 @@
   margin-bottom:50px;
 }
 
+.kontakt h4{
+  font-size:24px;
+}
+
 .kontakt a:hover{
   transform: scale(1.1);
   transition: 0.3s ease-in-out;
@@ -54,10 +58,15 @@
 
 .card img{
   width:150px;
-  height:150px;
+  height:200px;
   border-radius:20px;
   object-fit: cover;
   margin-bottom:10px;
+}
+
+.card h4{
+  font-size: 20px;
+  margin-top:10px;
 }
 
 .kontakt__social .container{
@@ -70,6 +79,10 @@
 }
 
 @media screen and (min-width:992px){
+
+  .kontakt h4{
+    font-size:28px;
+  }
   .bestyrelse__cards .container{
     display:flex;
   }

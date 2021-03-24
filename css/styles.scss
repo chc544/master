@@ -29,7 +29,7 @@ $padding: 40px;
 /*margener, padding*/
 
 .bg-image {
-  background-image: linear-gradient(to bottom, rgba(59, 130, 255, 0.5) 40%, rgba(0, 51, 141, 0.5) 100%), url('../images/hero.jpeg');
+  background-image: linear-gradient(180deg, rgba(64,124,202,0.4) 0%, rgba(0,26,71,0.6) 100%), url('../images/hero.jpeg');
   height: 400px;
   no-repeat: center center fixed;
   -webkit-background-size: cover;
@@ -42,8 +42,9 @@ $padding: 40px;
   font-weight: bold;
 }
 
+
 #midimage {
-  background-image: linear-gradient(to bottom, rgba(59, 130, 255, 0.5) 40%, rgba(0, 51, 141, 0.6) 100%), url('../images/midimage.jpg');
+  background-image: linear-gradient(180deg, rgba(64,124,202,0.4) 0%, rgba(0,26,71,0.6) 100%), url('../images/midimage.jpg');
   height: 200px;
   no-repeat: center center fixed;
   -webkit-background-size: cover;
@@ -203,3 +204,4 @@ h4 {
     height: 600px;
   }
 }
+

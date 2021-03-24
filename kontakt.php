@@ -1,7 +1,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
 <link rel="stylesheet" href="css/styles.css" type="text/css">
-<link rel="stylesheet" href="css/kontakt.scss" type="text/css">
+<link rel="stylesheet" href="css/kontakt.css" type="text/css">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 <title>Lions Nyk F. - Kontakt</title>
 
@@ -15,7 +15,7 @@
             <p>Viborgvej 13<br>
             4800 Nykøbing F. <br>
             <br>
-            Klubben mødes: 1. mandag kl 18:00</p>
+            Klubben mødes:<br> 1. mandag kl 18:00</p>
 
             <div class="kontakt__email">
                 <img src="img/envelope-regular.svg" alt="envelope">
@@ -80,6 +80,7 @@
             <div class="card">
                 <div class="card-body">
                     <img src="img/arne.png" alt="jenshansen">
+                    <h4>MEDLEM</h4>
                     <br>
                     <h5>Søren Mouritzen</h5>
                     <h5>Christensen</h5>
@@ -89,6 +90,7 @@
             <div class="card">
                 <div class="card-body">
                     <img src="img/benny.png" alt="jenshansen">
+                    <h4>MEDLEM</h4>
                     <br>
                     <h5>Benny Sell</h5>
                 </div>
@@ -96,6 +98,7 @@
             <div class="card">
                 <div class="card-body">
                     <img src="img/vibeke.png" alt="jenshansen">
+                    <h4>MEDLEM</h4>
                     <br>
                     <h5>Vibeke Davidsen</h5>
                     <h5>+45 60 82 82 66</h5>

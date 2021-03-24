@@ -1,5 +1,5 @@
 <head>
-    <link rel="stylesheet" href="css/footer.scss" type="text/css">
+    <link rel="stylesheet" href="css/footer.css" type="text/css">
 </head>
 
 <section class="footer">
@@ -8,8 +8,8 @@
             <a href="#"><img src="img/LCI_emblem_2color_web.png" alt="logo"></a>
         </div>
             <div class="footer__social">
-                <a href="https://www.facebook.com/Lions-Nyk%C3%B8bing-F-722739517762373/" target="_blank" rel="noopener noreferrer"><img src="img/facebook.svg" alt="facebooklogo"></a>
-                <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"><img src="img/linkedin.svg" alt="linkedinlogo"></a>
+                <a href="https://www.facebook.com/Lions-Nyk%C3%B8bing-F-722739517762373/" target="_blank" rel="noopener noreferrer"><img src="img/icons8-facebook.svg" alt="facebooklogo"></a>
+                <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"><img src="img/icons8-linkedin.svg" alt="linkedinlogo"></a>
             </div>
             <ul class="footer__list">
                 <li class="footer__list__item"><a href="om-os.php">OM OS</a></li>

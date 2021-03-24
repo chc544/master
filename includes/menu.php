@@ -1,5 +1,5 @@
 <head>
-    <link rel="stylesheet" href="css/menu.scss" type="text/css">
+    <link rel="stylesheet" href="css/menu.css" type="text/css">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <div class="container-fluid p-0 bg-primary" style="height:40px">
@@ -7,15 +7,15 @@
         <div class="menu__wrapper">
             <div class="social">
                 <a href="https://www.facebook.com/Lions-Nyk%C3%B8bing-F-722739517762373/" target="_blank" rel="noopener noreferrer">
-                    <img src="img/facebook.svg" alt="Lions Nyk F Facebook side" height="25" width="25">
+                    <img src="img/icons8-facebook.svg" alt="Lions Nyk F Facebook side" height="30" width="30" >
                 </a>
                 <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
-                    <img src="img/linkedin.svg" alt="Lions Nyk F Linkedin side" height="25" width="25">
+                    <img src="img/icons8-linkedin.svg" alt="Lions Nyk F Linkedin side" height="30" width="30">
                 </a>
             </div>
             <div class="social__btns">
                 <a href="donation.php" rel="noopener noreferrer" class="btn btn-yellow btn-sm btn-info" id="knap1" role="button">Donation</a>
-                <a href="blivmedlem.php" rel="noopener noreferrer" class="btn btn-yellow btn-sm btn-info" id="knap1" role="button">Bliv medlem</a>
+                <a href="medlem.php" rel="noopener noreferrer" class="btn btn-yellow btn-sm btn-info" id="knap1" role="button">Bliv medlem</a>
 
             </div>
         </div>
@@ -32,7 +32,7 @@
 
             </a>
             <ul class="navbar-nav me-auto">
-            <li class="nav-item" id="navbarText">
+            <li id="navbarText">
                 <a class="navText" href="index.php">Lions Nykøbing</a>
             </li>
             </ul>

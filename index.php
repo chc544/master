@@ -23,7 +23,7 @@
             <h1 class="mb-3">Vær med til at gøre en forskel</h1>
             <h4 class="mb-3">Lions Nykøbing Falster</h4>
             <br><br>
-            <a class="btn btn-yellow " href="blivmedlem.php" role="button">Gør en forskel</a>
+            <a class="btn btn-yellow " href="medlem.php" role="button">Gør en forskel</a>
         </div>
     </div>
 </div>
