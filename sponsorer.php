@@ -23,7 +23,7 @@
         Hvis du er interesseret i at blive sponsor, så kontakt os <a href="kontakt.php">her<a/>.<br><br>
         Når din virksomhed støtter Lions, kan det trækkes fra i skat. Virksomheder kan ubegrænset donere – dog må beløbet højest udgøre 15% af virksomhedens indtjening.
         <br><br>
-        Læs mere på <a href="https://skat.dk/">skat.dk</a></p>
+        Læs mere på <a href="https://skat.dk/">skat.dk</a>.</p>
     </div>
 
     <div class="container">

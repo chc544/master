@@ -81,7 +81,7 @@
                         <h4 class="card-title">Julehjælp på Falster</h4>
                         <p class="card-text">I ugen op til jul samlede LIONS Nykøbing fødevarer ind til fremstilling af julekurve til 12 familier i Nykøbing F.
                             <br>Samarbejdspartner var den lokale Kvickly i Nykøbing F. [...]</p>
-                        <a href="#" class="btn btn-yellow">Læs mere →</a>
+                        <a href="https://nykoebingfalster.lions.dk/klub_nyhed/19552" class="btn btn-yellow">Læs mere →</a>
                     </div>
                 </div>
             </div>
@@ -90,8 +90,8 @@
                     <div class="card-body">
                         <img src="images/katastrofe.jpg" class="card-img-top" alt="...">
                         <h4 class="card-title">COVID-19 Katastrofehjælp</h4>
-                        <p class="card-text">Lions giver 1 mio. kr. til COVID-19 vaccination og behandling i Afrika. COVID-19 har ramt hele verden. Mens vi på vores breddegrader har midlerne til at indkøbe, fordele og vaccinationerne[...]</p>
-                        <a href="#" class="btn btn-yellow">Læs mere →</a>
+                        <p class="card-text">Lions giver 1 mio. kr. til COVID-19 vaccination og behandling i Afrika. COVID-19 har ramt hele verden. Mens vi på vores breddegrader har midlerne til at indkøbe, fordele og vaccinationerne [...]</p>
+                        <a href="https://www.lions.dk/nyhed/19542" class="btn btn-yellow">Læs mere →</a>
                     </div>
                 </div>
             </div>

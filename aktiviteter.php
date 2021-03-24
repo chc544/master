@@ -65,7 +65,7 @@
                 <p>Vi er i øjeblikket synlige på flere ungdoms- og videregående uddannelser, med vores kampagne “FRIVILLIG, HVEM, MIG?”
                     Kampagnen henvender sig til de helt unge. Vi ønsker at oplyse om vigtigheden af lokale ildsjæle og hvad det giver DIG igen at være frivillig.
                     Du kan se vores plakater hænge rundt omkring og der hvor de hænger er det også muligt at få udleveret flyers, hvor du kan læse mere
-                    Hent vores plakat og flyer <a href="">her</a>.
+                    Hent vores plakat og flyer <a href="https://www.dropbox.com/sh/qi3hfxea3c2p6x4/AABfZwRGWjNhaenjYNBZQjTMa?dl=0">her</a>.
                 </p>
             </div>
         </div>

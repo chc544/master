@@ -41,7 +41,10 @@
 <!-- Background image -->
 <div class="container" id="pwidth">
     <h1>Få skattefradrag for din donation til velgørenhed</h1>
-    <p>Har du nogle spørgsmål så kan du kontakte os <a href="kontakt.php">her.</a></p>
+    <p>Husk at din donation kan trækkes fra i SKAT (følg linket og læs mere på SKATs hjemmeside) – vi er på listen over godkendte hjælpeorganisationer. <br><br>
+        Du kan læse mere <a href="https://skat.dk/skat.aspx?oid=2234772">her.</a> <br>
+
+        Har du nogle spørgsmål så kan du kontakte os <a href="kontakt.php">her.</a></p>
 </div>
 <br><br><br>
 <!-- Background image -->

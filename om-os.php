@@ -19,7 +19,7 @@
                     Klubben er en del af <a href="https://www.lions.dk/">Lions Danmark</a> og dermed en del af et stort internationalt netværk. <br>
                     Vi støtter enkelte, familier, klubber og lokalsamfundet. <br>
                     Vi har stort fokus på at hjælpe lokalt – det lokale menneske, der hjælper lokale i nød. <br>
-                    Kom videre til vores lokale aktiviteter <a href="aktiviteter.php">her</a>
+                    Kom videre til vores lokale aktiviteter <a href="aktiviteter.php">her</a>.
                 </p>
             </div>
             <img src="img/lokalt.jpg" alt="lokalt" class="img-fluid">
@@ -36,7 +36,7 @@
                 <p>Vores lille lokale klub samarbejder med alle andre lokale klubber i Danmark, f.eks. har vi lige nu et samarbejde med Lions Nakskov omkring indsamling af overskudsmad.<br>
                     Lions kom til Danmark i 1950 og i dag er der 300 klubber på landsplan med i alt 6000 medlemmer. <br>
                     Med i de 300 klubber tæller også 5 klubber på Færøerne og 5 klubber i Grønland. <br>
-                    <a href="">Lions pris</a> uddeles som støtte til en enkelt eller flere personer årligt, der er med til at fremme levevilkårene for danske borgere. Læs mere <a href="">her</a><br><br>
+                    <a href="">Lions pris</a> uddeles som støtte til en enkelt eller flere personer årligt, der er med til at fremme levevilkårene for danske borgere. Læs mere <a href="">her</a>.<br><br>
                     Se nogle af vores nationale mærkesager her: <br>
 
                 <ul>
@@ -60,7 +60,7 @@
                 <p>Lions er verdens største private humanitære hjælpeorganisation. <br>
                     Vi deltager i det internationale arbejde og vores hovedområder er at hjælpe med nationalt og internationalt projektarbejde, udveksling, uddannelse og venskabsklubber. <br>
                     Internationalt støttes op omkring formål som: Diabetes, syn, sult, miljø og børnecancer. <br>
-                    Det er muligt at støtte direkte <a href="https://www.lionsclubs.org/en/explore-our-clubs/our-global-causes" target="_blank">her</a><br>
+                    Det er muligt at støtte direkte <a href="https://www.lionsclubs.org/en/explore-our-clubs/our-global-causes" target="_blank">her</a>.<br>
                 </p>
             </div>
             <img src="img/internationalt.jpg" alt="internationalt" class="img-fluid">
@@ -72,7 +72,7 @@
             <div class="om-os__wrapper__right">
                 <h1>Historie</h1>
                 <p>Lions organisationen blev oprettet i USA i 1917 på en tid, hvor mange syntes, at verden behøvede mere medleven og mindre selvoptagethed. <br><br>
-                    Læs mere om Lions historie <a href="https://www.lions.dk/lions_historien" target="_blank">her</a><br>
+                    Læs mere om Lions historie <a href="https://www.lions.dk/lions_historien" target="_blank">her</a>.<br>
                 </p>
             </div>
             <img src="img/historiebook.svg" alt="historiebook" class="img-fluid">
