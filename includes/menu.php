@@ -29,6 +29,7 @@
 </div>
 
 <div class="default__line"></div>
+
 <div class="container">
     <nav class="navbar navbar-right navbar-expand-lg navbar-light">
 
