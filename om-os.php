@@ -60,10 +60,13 @@
 
     <div class="om-os__historie">
         <div class="container">
-            <h1>Historie</h1>
-            <p>Lions organisationen blev oprettet i USA i 1917 på en tid, hvor mange syntes, at verden behøvede mere medleven og mindre selvoptagethed. <br>
-                Læs mere om Lions historie <a href="https://www.lions.dk/lions_historien">her</a><br>
-            </p>
+            <div class="om-os__wrapper__right">
+                <h1>Historie</h1>
+                <p>Lions organisationen blev oprettet i USA i 1917 på en tid, hvor mange syntes, at verden behøvede mere medleven og mindre selvoptagethed. <br>
+                    Læs mere om Lions historie <a href="https://www.lions.dk/lions_historien">her</a><br>
+                </p>
+            </div>
+            <img src="img/historiebook.svg" alt="historiebook" class="img-fluid">
         </div>
     </div
 
